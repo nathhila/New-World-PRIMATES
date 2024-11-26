@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['alouatta', 'aotus', 'ateles', 'brachyteles', 'cebus', 'sagui']
+
