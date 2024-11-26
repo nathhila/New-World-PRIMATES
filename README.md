@@ -1,8 +1,8 @@
 # New-World-PRIMATES
 A dataset containing multiple images of primates at various positions for the purpose of training computer vision algorithms.
+OBS: the train file can be found at the link bellow 
 
 Dataset para indentificação e detecção de primatas do novo mundo, aqueles endemicos da américa Latina.
-
 
 o dataset está dividido em 3 pastas referentes ao teste, treino e validação
 cada pasta contém duas subpastas contendo as imagens e os rótulos referentes as imagens
@@ -28,3 +28,4 @@ uma linha contém as seguintes informações, separadas por espaços:
 no caso do New World PRIMATES temos 6 classes. 
 
 Disponível também em: https://drive.google.com/file/d/1Aq9q4ZAUKOHYQF1zuwCp4yGpYplZwGa3/view?usp=drive_link
+OBS: O arquivo contendo as imagens para treino está no link disponível.
