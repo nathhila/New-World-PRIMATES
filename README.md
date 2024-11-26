@@ -26,3 +26,5 @@ uma linha contém as seguintes informações, separadas por espaços:
     height: A altura da caixa delimitadora, normalizada em relação à altura da imagem.
 
 no caso do New World PRIMATES temos 6 classes. 
+
+Disponível também em: https://drive.google.com/file/d/1Aq9q4ZAUKOHYQF1zuwCp4yGpYplZwGa3/view?usp=drive_link
