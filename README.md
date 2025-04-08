@@ -27,5 +27,5 @@ uma linha contém as seguintes informações, separadas por espaços:
 
 no caso do New World PRIMATES temos 6 classes. 
 
-Disponível também em: https://drive.google.com/file/d/1Aq9q4ZAUKOHYQF1zuwCp4yGpYplZwGa3/view?usp=drive_link
+Disponível também em: [https://drive.google.com/file/d/1Aq9q4ZAUKOHYQF1zuwCp4yGpYplZwGa3/view?usp=drive_link](https://drive.google.com/drive/u/2/my-drive)
 OBS: O arquivo contendo as imagens para treino está no link disponível.
